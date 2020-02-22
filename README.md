@@ -3,7 +3,7 @@
 Project to keep alive the art within us though artist who lacks computer and does not know how to publish content. Helping artist across the globe to share , protect and rise.
 
 
-##Why Upscale ARTS
+## Why Upscale ARTS
 
 You can create per post a story and share story about an art or help an artist who cannot access computer and does not know how to publish art over internet.
 
