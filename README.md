@@ -141,10 +141,10 @@ The CSS is written in Sass. The JavaScript is written in ES6, so your code is up
 
 ### Donations
 
-* PayPal – <https://www.paypal.me/samesies>
-* Bitcoin – 1PSzNmcfAFJY1PtBK5u9R5bTGfF7KAuLcq
-* Ethereum – 0x392F7116e4171F1D740397B6000EadD2e4bb9670
-* Litecoin – LSH9AnjcUTV5T7PUxXQuxPqb9W5aSR9GEP
+* PayPal – <https://www.paypal.me/muellners>
+* Bitcoin – xx
+* Ethereum – xx
+* Litecoin – xx
 
 ### Support
 Email <info@muellners.org> if you need any additional support or info.
