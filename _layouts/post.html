@@ -9,6 +9,10 @@ layout: default
 
         <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time>
       </div>
+      <div class="grid-small">
+        Author<h3 itemprop="name headline">{{ page.author }}</h3> | Artist<h3 itemprop="name headline">{{ page.artist }}</h3> | Copyright<h3 itemprop="name headline">{{ page.copyright }}</h3>
+      </div>
+
     </div>
 
     {% if page.image %}

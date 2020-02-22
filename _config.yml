@@ -1,27 +1,27 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: info@muellners.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics: 
+google_analytics:
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Upscale Arts
+title: UPSCALE ARTS
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  Upscale arts project for artist across the globe our aim is to monetize , protect and spread.
+url: https://upscalearts.com
+twitter_username: muellners
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: https://twitter.com/muellners
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/muellners/
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.linkedin.com/in/muellners/
   - name: github
-    url: https://github.com/samesies
+    url: https://github.com/muellners
   - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://codepen.io/xx/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
@@ -36,9 +36,10 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Muellners Foundation
+    bio: Muellners Foundation strives to achieve equality driven goals and fundamental essence of human life..
+    url: http://muellners.org
+
 
 # Pagination settings
 pagination:
@@ -53,13 +54,13 @@ pagination:
 autopages:
   enabled: true
   categories:
-    enabled: false
+    enabled: true
   collections:
-    enabled: false
+    enabled: true
   tags:
-    layouts: 
+    layouts:
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Upscale Arts'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
