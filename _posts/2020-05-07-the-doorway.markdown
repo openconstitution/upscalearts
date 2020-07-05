@@ -25,5 +25,3 @@ and the moon is there for the darkness.
 Nothing is meant to be fallen,
 indeed it’s meant to rise,
 more beautiful,stronger and happier.
-Painted By: SHANTRAM
-Contributor: Himani Parigot
