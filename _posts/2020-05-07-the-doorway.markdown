@@ -12,7 +12,8 @@ copyright: Muellners Foundation
 tags:
   - complete
   - loop
----ignorance
+  - ignorance
+---
 
 Ignorance is a bliss! Always?
 In life we take birth feeling whole until we have tasted the actual reality of our conscious working. Trying to ignore the law of change, sticking to that virtual feeling of feeling complete.
