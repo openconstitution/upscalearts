@@ -1,19 +1,25 @@
 ---
 layout: post
-title: "The Currents"
+title: "The Missing Parts"
 date: 2020-07-05
-description: No current no feel.
-image: /assets/images/bulb.jpg
+description: Would you make it a whole or let it remain as a loop?
+image: /assets/images/complete.jpg
 author: Himani Parigot
 artist: Shantaram Kadam
 artist_description:
 donate: You can donate this address
 copyright: Muellners Foundation
 tags:
-  - currents
-  - life
----
+  - complete
+  - loop
+---ignorance
 
-Have you ever experienced that second of rush,that feeling of blood flowing upward?
-Something that seems to pass cold in the beginning and later BOOM-it explodes making you realize you are one of those who is living. Likewise the current that flows to give power to the dead,awakening it to life.
-This painting talks about those currents in humans that have so many feelings encrypted within it. Like the passion,anger,excitement,sadness and happiness.Without the essence of these feel,would living be the same?
+Ignorance is a bliss! Always?
+In life we take birth feeling whole until we have tasted the actual reality of our conscious working. Trying to ignore the law of change, sticking to that virtual feeling of feeling complete.
+Completeness is not a subject limited to human company only. It’s all more about the intensity the missing parts hold.
+The more intense, the larger the void.
+Voids to some the unfulfilled dreams, to others the missing love.
+To some the forgiveness, to others the stubborn memories.
+Would you let the voids become a complete whole or a tangled loop!
+Would you be able to ignore it? If yes!
+Was ignorance really a bliss?
