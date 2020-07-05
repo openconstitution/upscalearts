@@ -1,15 +1,28 @@
-- name: Netlify Deploy
-  uses: jsmrcaga/action-netlify-deploy@v1.1.0
-  with:
-    # Auth token to use with netlify
-    NETLIFY_AUTH_TOKEN: b3a265ed-8e84-4b56-8bbd-60dcf7ce809d # default is 
-    # Your Netlify site id
-    NETLIFY_SITE_ID: hopeful-wozniak-5d8d46 # default is 
-    # Should the site be deployed to production?
-    NETLIFY_DEPLOY_TO_PROD: # optional
-    # A deploy message
-    NETLIFY_DEPLOY_MESSAGE: # optional, default is 
-    # Directory where built files are stored
-    build_directory: _site # default is build
-    # Directory where built files are stored
-    functions_directory: # optional, default is 
+# .github/workflows/netlify.yml
+name: Build and Deploy to Netlify
+on:
+  push:
+  pull_request:
+    types: [opened, synchronize]
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+
+      # ( Build to ./dist or other directory... )
+
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v1.1
+        with:
+          publish-dir: '_site/'
+          production-branch: master
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: "Deploy from GitHub Actions"
+          enable-pull-request-comment: false
+          enable-commit-comment: true
+          overwrites-pull-request-comment: true
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        timeout-minutes: 1
