@@ -1,3 +1,4 @@
+---
 layout: post
 title: "The Currents"
 date: 2020-07-05
@@ -11,7 +12,6 @@ copyright: Muellners Foundation
 tags:
   - currents
   - life
-  -
 ---
 
 The Currents !
