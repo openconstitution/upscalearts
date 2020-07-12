@@ -12,7 +12,7 @@ copyright: Muellners Foundation
 tags:
   - sailboat
   - passion
-  - jourmey
+  - journey
 ---
 
-The sailboat and the waves are like, the body and the soul completing each other. It is so fascinating to look at how they beat with passion and how they confidently pace through the journey. It is undoubtedly their courage to fight the odds that makes this rare happen and sets this trend of real sense.
+The sailboat and the waves are like, the body and the soul completing each other. It is so fascinating to look at how they beat with passion and how confidently they pace through the journey. It is undoubtedly their courage to fight the odds that makes this rare happen and sets this trend of real sense.
