@@ -14,4 +14,5 @@ tags:
   - passion
 ---
 
-The sailboat and the waves are like, the body and the soul completing each other. It is so fascinating to look at how they beat with passion and how confidently they pace through the journey. It is undoubtedly their courage to fight the odds that makes this rare happen and sets this trend of real sense.
+She once explained to me why she was so attached to this painting.
+The painting never stops amusing me she said. The sailboat and the waves are like, the body and the soul completing each other. It is so fascinating to look at how they beat with passion and how confidently they pace through the times. It reminds me of the time when I lingered around my self talk, when I tried to understand the actual working of the reality. I find it inspiring she quoted .It directs me to the peace in my uncalm mind.
