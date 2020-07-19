@@ -12,7 +12,6 @@ copyright: Muellners Foundation
 tags:
   - understanding
   - reflection
-  - consciousness
 ---
 
 Filled with radiant lustrous blue, this painting reflects one’s consciousness. The deep central point is the focused concentration, helping one to learn and gain self understanding. For ancient yogis it was a practice to eliminate duality, an attempt to reach a higher state of wisdom being called the nirvana. A state of enlightenment, where one’s desires and suffering go away.
