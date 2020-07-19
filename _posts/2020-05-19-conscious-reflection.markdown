@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conscious Reflection"
-date: 2020-07-09
+date: 2020-07-19
 description: Meditation.
 image: /assets/images/reflection.jpg
 author: Himani Parigot
